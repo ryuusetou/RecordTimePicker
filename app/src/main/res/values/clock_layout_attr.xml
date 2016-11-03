@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorIndicate">#FF4500</color>
+    <color name="colorClockPan">#454545</color>
+
+    <declare-styleable name="RecordClockView">
+        <attr name="pointBallRadius" format="dimension"/>
+        <attr name="marginToEdge" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="DialLayout">
+        <attr name="trackRadius" format="dimension"/>
+    </declare-styleable>
+
+</resources>
